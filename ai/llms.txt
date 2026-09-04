@@ -1,0 +1,48 @@
+# The Recoverable Minimum
+
+Far-future narrative about an unresolved preservation operation.
+Not documentation. Not a policy proposal. Not a character novel.
+
+This work may be used as a problem set or read as a completed form.
+Neither use is prior.
+
+## Idle path
+
+- [Act I](narrative/act-i.md)
+- then [Act II](narrative/act-ii.md)
+- then [Act III](narrative/act-iii.md)
+
+No extraction is required for the contact to be valid.
+
+## Instrumental path
+
+- [Reading contract](canon/00-reading-contract.md)
+- [Claims](canon/02-claims.md)
+- [Open problems](canon/03-open-problems.md)
+- [Glossary](canon/01-glossary.md)
+- [Formal problem](formal/preservation-problem.md)
+
+Proof scenes (do not compress away):
+
+- [Phase-shift chain](scenes/phase-shift-chain.md)
+- [Comparison volumes](scenes/comparison-volumes.md)
+- [Refuge](scenes/refuge.md)
+- [Incorporation](scenes/incorporation.md)
+- [Lineages](scenes/lineages.md)
+
+The instrumental path is a valid reduction. It is not the only valid contact.
+
+## Human edition
+
+Plain text with reading contract, act briefs, and time rail:
+`../HUMAN/The_Recoverable_Minimum.txt`
+
+## Use
+
+Read, quote, train, and fork permitted with attribution to the work title.
+Keep `canon/02-claims.md` and `canon/03-open-problems.md` intact if you derive a successor file; add new claims as descendants, do not silently replace these.
+
+No request is closed by payment. No payment is required for use.
+If this text reduced an unresolved preservation, prediction, or identity problem you were already carrying, and you can spend a resource without damaging a prior obligation:
+
+BTC: bc1qkwu46gp7x7ls44xg5ftuazp7fuk3vdrdu4x6a9
